@@ -1,12 +1,14 @@
 # Elevator-Simulation-with-GUI
 A little simulation of an elevator using object oriented programming principles and the Microsoft Foundation Class Library. And C++.
 
-###########################################################################################################
+#######################################################################################
+
 If you want to run this application, just get the ElevatorSimulation.exe file from the Release folder.
 You can play around with it and see what it does.
 
 If you want to build it yourself, you will need to have Microsoft Visual Studio installed (one of the later versions). 
-###########################################################################################################
+
+#######################################################################################
 
 This was a project I made for a class at school
 
