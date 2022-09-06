@@ -3,7 +3,7 @@ A little simulation of an elevator using object oriented programming principles 
 
 
 
-This was a project I made for a class at school
+This was a project I made for a class at school. I used C++ to write it and the MFC and ther Microsoft Visual Studio tools to make it.
 
 I made it because it was an Object Oriented Programming class and I needed to demonstrate my understanding of OOP
 
