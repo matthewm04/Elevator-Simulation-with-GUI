@@ -1,6 +1,3 @@
-// identification comments code block
-// Programmer: Matthew Mahoney
-// Programmer's ID: 1720167
 #include "Elevator.h"
 #include "Panel.h"
 #include "Building.h"
