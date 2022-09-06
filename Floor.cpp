@@ -1,6 +1,3 @@
-// identification comments code block
-// Programmer: Matthew Mahoney
-// Programmer's ID: 1720167
 #include "Floor.h"
 #include "Rider.h"
 #include "Panel.h"
