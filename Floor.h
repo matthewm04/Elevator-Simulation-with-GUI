@@ -1,6 +1,3 @@
-// identification comments code block
-// Programmer: Matthew Mahoney
-// Programmer's ID: 1720167
 #ifndef FLOOR_H
 #define FLOOR_H
 
